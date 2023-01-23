@@ -1,0 +1,18 @@
+.App{
+    display: flex;
+    flex-direction: column;
+    
+    align-items: center;
+    
+    background-color: white;
+    width: 100%;
+    padding-top: 5%;
+}
+.App .save{
+    width: fit-content;
+}
+.sas{
+    display: flex;
+    justify-content: space-around;
+    
+}

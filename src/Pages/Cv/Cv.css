@@ -1,0 +1,60 @@
+.cv{
+    background-color: white;
+    margin-top: 2px;
+    display: flex;
+    flex-direction: column;
+}
+.header{
+    display: flex;
+    margin-left: 25%;
+    
+    margin-top: 10px;
+}
+.seg{
+    background-color: #2b7589;
+    width: 60%;
+}
+.logocv{
+    width: fit-content;
+    height: fit-content;
+    padding-top: 8px;
+}
+.infos{
+    padding-left: 20px;
+}
+.comptences{
+    margin-left: 25%;
+    margin-top: 50px;
+    font-size: 20px;
+    
+}
+.compts{
+   margin-left: 5%;
+   font-size: 17px;
+  
+}
+
+.logoimg {
+    height: 50px;
+    width: 90px;
+}
+.compseg{
+    background-color: #2b7589;
+    width: 800px;
+}
+.content{
+    padding-left: 10%;
+    margin-top: 10px;
+}
+.btn-primary{
+    width: max-content;
+}
+h6, h3{
+    color: rgba(27, 194, 250, 0.909);
+}
+.download{
+    margin:0 auto;
+}
+.generer{
+    margin-bottom: 1%;
+}

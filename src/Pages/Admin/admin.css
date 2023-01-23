@@ -1,0 +1,36 @@
+
+.filter-container{
+    background-color: aliceblue;
+    border-right: 2px solid black;
+    padding-right: 5%;
+    display: flex;
+    
+    
+}
+.admindash{
+    width: 100%;
+    height: 100%;
+}
+.filter{
+    background-color: aliceblue;
+    padding-left: 10%;
+    display: flex;
+    padding-top: 1%;
+    width: 100%;
+    flex-wrap: wrap;
+    width: 100%;
+    
+}
+.content1{
+    display:flex;
+    width: 100%;
+    height: 100%;
+    justify-content: stretch;
+    
+    
+}
+.filteroption{
+    margin-top: 5rem;
+
+    justify-content: center;
+}

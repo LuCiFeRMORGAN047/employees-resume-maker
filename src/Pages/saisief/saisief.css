@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap');
+.saisir{
+    background-color: white;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+    font-family: 'Roboto Condensed', sans-serif;
+    padding-top: 5%;
+}
+.prof{
+    width: fit-content;
+}
+.save{
+    margin-top: 1%;
+    margin-bottom: 5%;
+}
+.sel{
+    margin-top: 1%;
+}

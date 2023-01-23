@@ -1,0 +1,16 @@
+ .message{
+    font-size: 13px;
+    background-color: rgb(248, 100, 100);
+    color: white;
+}
+.error{
+    text-align: center;
+}
+
+.signup{
+   
+    margin: 0 auto;
+     margin-top: 2%;
+     width: fit-content;
+
+}

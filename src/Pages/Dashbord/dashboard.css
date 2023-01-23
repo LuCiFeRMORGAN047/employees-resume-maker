@@ -1,0 +1,22 @@
+.dashinfo{
+    align-items: center;
+
+}
+#dashcard{
+width: 250px;
+flex-direction: row;
+align-items: center;
+justify-content: space-around;
+padding: 1%;
+align-self: center;
+}
+#dashheader{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+   gap:1%;
+    
+}
+.table{
+    width: 40%;
+}

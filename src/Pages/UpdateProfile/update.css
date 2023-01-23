@@ -1,0 +1,10 @@
+.update{
+    background-color: white;
+    display: flex;
+    width: 100%;
+    padding-top: 5%;
+  align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    
+}
